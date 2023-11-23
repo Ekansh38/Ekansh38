@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ekansh38
 - 👀 I’m interested in python,
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning Django 
+- 💞️ I’m looking to collaborate on cool and fun projects
 - 📫 How to reach me goenka.ekansh+github@gmail.com
 
 <!---
