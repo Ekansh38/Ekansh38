@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Tkinter, JavaScript and more**
 
-- 👯 I’m looking to collaborate on **fun full stack projects.**
+- 👯 I’m looking to collaborate on **fun full stack projects. Or really anything**
 
 - 🤝 I’m looking for help with **Django and Tkinter**
 
