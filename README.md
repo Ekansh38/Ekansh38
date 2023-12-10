@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Django and Tkinter**
 
-- 💬 Ask me about **Python, Pygame and Godot**
+- 💬 Ask me about **Python, Webdev, Django, Pygame and more**
 
 - 📫 How to reach me **goenka.ekansh@gmail.com**
 
