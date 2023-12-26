@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekansh38&label=Profile%20views&color=0e75b6&style=flat" alt="ekansh38" /> </p>
 
-- 🌱 I’m currently learning **Django, Tkinter, JavaScript and more**
+- 🌱 I’m currently learning **Django, C, JavaScript and more**
 
 - 👯 I’m looking to collaborate on **fun full stack projects. Or really anything**
 
-- 🤝 I’m looking for help with **Django and Tkinter**
+- 🤝 I’m looking for help with **Full stack webdev and CLI tools with C**
 
-- 💬 Ask me about **Python, Webdev, Django, Pygame and more**
+- 💬 Ask me about **Python, Webdev, Django, C, Pygame and more**
 
 - 📫 How to reach me **goenka.ekansh@gmail.com**
 
-- ⚡ Fun fact **I am new to programming and aspire to be a full stack developer**
+- ⚡ Fun fact **I am new to programming and want to be a full stack developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
