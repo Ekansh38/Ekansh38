@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekansh38&label=Profile%20views&color=0e75b6&style=flat" alt="ekansh38" /> </p>
 
-- 🌱 I’m currently learning **Django, C, JavaScript and more**
-
 - 👯 I’m looking to collaborate on **fun full stack projects. Or really anything**
 
 - 🤝 I’m looking for help with **Full stack webdev and CLI tools with C**
