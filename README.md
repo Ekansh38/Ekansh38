@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ekansh</h1>
-<h3 align="center">A passionate developer from India living in Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekansh38&label=Profile%20views&color=0e75b6&style=flat" alt="ekansh38" /> </p>
 
-- 👯 I’m looking to collaborate on **fun full stack projects. Or really anything**
+- 👯 I’m looking to collaborate on **cool simulations, full stack projects, and really anything else!**
 
-- 🤝 I’m looking for help with **Full stack webdev and CLI tools with C**
+- 🤝 I’m looking for help with **math, physics, machine learning, Rust, JavaScript, Vue Js, and other things.**
 
-- 💬 Ask me about **Python, Webdev, Django, C, Pygame and more**
+- 💬 Ask me about **Python, Pygame, Django. Data Structures & Algorithms, frontend development and a lot more general programming things.**
 
 - 📫 How to reach me **goenka.ekansh@gmail.com**
-
-- ⚡ Fun fact **I am new to programming and want to be a full stack developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
