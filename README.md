@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Byte Colony</h1>
+<h1 align="center">Hi, I'm Byte Colony</h1>
