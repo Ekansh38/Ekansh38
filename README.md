@@ -1,3 +1,7 @@
-<h1 align="center">hello</h1>
+<h1 align="center">Hello</h1>
 
-indian scammer learns to code
+Obsessed with how computers work at the bottom
+
+not the top.
+
+Current project: convincing a terminal it has feelings
